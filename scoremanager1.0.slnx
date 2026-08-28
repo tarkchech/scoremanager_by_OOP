@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="scoremanager1.0/scoremanager1.0.vcxproj" Id="2c649b30-e8d7-48f2-88e3-a7d0017eceee" />
+</Solution>
